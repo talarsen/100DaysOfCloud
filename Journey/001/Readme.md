@@ -1,11 +1,11 @@
 **Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
+![placeholder image](https://flic.kr/p/R6sjSa)
 
-# New post title here
+# Day 1
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+✍️ I am excited to start 100 DaysofCloud.
 
 ## Prerequisite
 
